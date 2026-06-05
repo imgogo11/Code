@@ -1,0 +1,32 @@
+BasedOnStyle: Chromium
+Language: Cpp
+
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+AccessModifierOffset: -2
+
+BreakBeforeBraces: Custom
+BraceWrapping:
+  BeforeElse: true
+AllowShortFunctionsOnASingleLine: All
+AllowShortIfStatementsOnASingleLine: true
+AllowShortLoopsOnASingleLine: true
+AllowShortBlocksOnASingleLine: Never
+AlwaysBreakTemplateDeclarations: false
+
+SpaceBeforeParens: ControlStatements
+SpacesInParentheses: false
+SpaceInEmptyParentheses: false
+SpacesInSquareBrackets: false
+SpaceBeforeAssignmentOperators: true
+SpaceBeforeCpp11BracedList: false
+
+PointerAlignment: Right
+ReferenceAlignment: Right
+
+ColumnLimit: 0
+IndentCaseLabels: true
+
+SortIncludes: true
+FixNamespaceComments: true
