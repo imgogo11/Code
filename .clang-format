@@ -26,6 +26,7 @@ PointerAlignment: Right
 ReferenceAlignment: Right
 
 ColumnLimit: 0
+MaxEmptyLinesToKeep: 10
 IndentCaseLabels: true
 
 SortIncludes: true
