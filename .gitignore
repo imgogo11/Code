@@ -1,2 +1,5 @@
 build/
 *.exe
+
+# CPH (Competitive Programming Helper)
+.cph/
